@@ -6,7 +6,7 @@ Ce dépôt contient uniquement les **téléchargements** de XDK Launcher (le cod
 
 ![Accueil XDK](docs/accueil.jpg)
 
-- **Accueil néon** avec tes entrées HDMI, tes applis (maintiens OK pour les ranger ou les cacher) et tes applis récentes
+- **Accueil néon** avec tes entrées HDMI, tes applis (maintiens OK pour les ranger, les cacher ou les désinstaller) et tes applis récentes
 - **Ton pseudo** affiché sur l'accueil et dit par la voix
 - **Widgets** : météo de ta ville, lecture en cours (pause / suivant), état de la TV
 - **Discord TEAM XDK** : QR code à scanner et membres en ligne
